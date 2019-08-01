@@ -10,6 +10,13 @@ For local development OS X, Linux and windows
 ```
     npm install
     npm run start
+    
+```
+### Running the application
+```
+    1) Enter URL: http://localhost:4200/listFeedImages in the browser to see the Flickr Public Feed Gallery.
+    2) To search by tag, enter tag in the search box e.g. kitten then click on "Search" button.
+    3) To clear the search click on "x" icon and then click on "Search" button.
 ```
 
 ### Testing the application
