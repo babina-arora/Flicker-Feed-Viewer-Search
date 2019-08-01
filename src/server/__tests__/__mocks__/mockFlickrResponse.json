@@ -1,0 +1,37 @@
+{
+  "mockResponseObject": {
+    "title": "Uploads from everyone",
+    "link": "https:\/\/www.flickr.com\/photos\/",
+    "description": "",
+    "modified": "2019-08-01T07:14:40Z",
+    "generator": "https:\/\/www.flickr.com",
+    "items": [
+      {
+        "title": "The red Hut",
+        "link": "https:\/\/www.flickr.com\/photos\/wistiti\/48428813166\/",
+        "media": {
+          "m": "https:\/\/live.staticflickr.com\/65535\/48428813166_de6fb2de05_m.jpg"
+        },
+        "date_taken": "2018-08-30T13:26:40-08:00",
+        "description": " <p><a href=\"https:\/\/www.flickr.com\/people\/wistiti\/\">mousstique<\/a> posted a photo:<\/p> <p><a href=\"https:\/\/www.flickr.com\/photos\/wistiti\/48428813166\/\" title=\"The red Hut\"><img src=\"https:\/\/live.staticflickr.com\/65535\/48428813166_de6fb2de05_m.jpg\" width=\"240\" height=\"160\" alt=\"The red Hut\" \/><\/a><\/p> ",
+        "published": "2019-08-01T07:14:40Z",
+        "author": "nobody@flickr.com (\"mousstique\")",
+        "author_id": "54782652@N00",
+        "tags": "norway lofoten hut beach ramberg longexposure red"
+      },
+      {
+        "title": "2019-08-01_09-14-51",
+        "link": "https:\/\/www.flickr.com\/photos\/124742117@N03\/48428814716\/",
+        "media": {
+          "m": "https:\/\/live.staticflickr.com\/65535\/48428814716_59ec386b04_m.jpg"
+        },
+        "date_taken": "2019-07-30T18:23:18-08:00",
+        "description": " <p><a href=\"https:\/\/www.flickr.com\/people\/124742117@N03\/\">jeerpics<\/a> posted a photo:<\/p> <p><a href=\"https:\/\/www.flickr.com\/photos\/124742117@N03\/48428814716\/\" title=\"2019-08-01_09-14-51\"><img src=\"https:\/\/live.staticflickr.com\/65535\/48428814716_59ec386b04_m.jpg\" width=\"240\" height=\"191\" alt=\"2019-08-01_09-14-51\" \/><\/a><\/p> ",
+        "published": "2019-08-01T07:15:00Z",
+        "author": "nobody@flickr.com (\"jeerpics\")",
+        "author_id": "124742117@N03",
+        "tags": ""
+      }
+    ]
+  }
+}
